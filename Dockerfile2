@@ -1,0 +1,5 @@
+FROM ubuntu:18.04
+MAINTAINER ryun
+LABEL "purpose"="practice"
+RUN apt-get update
+
